@@ -24,3 +24,23 @@ GUI는 아이콘과 마우스로 직관적인 조작이 가능해 배우기 쉽�
 또한 리눅스는 주로 서버컴퓨터의 OS로 사용되기에, 서버컴퓨터는 주로 데이터 센터에 위치하여 사용자는 네트워크로 원격 접속하여 작업을 처리한다. << 이 경우에는 GUI 사용시 통신 데이터량이 많아 속도가 느려지기에, 반대로 통신 데이터량이 작은 텍스트를 주고받는 CLI 도구를 쓰는 것이 처리속도가 빠르기 때문이다. 
 
 ## 리눅스 명령어란 무엇이고 중요 5개 명령어를 조사하라. 실행결과를 첨부하라
+리눅스 명령어는 리눅스 셀(터미널)에서 텍스트로 입력해 컴퓨터에게 특정 작업을 지시하는 도구이다.
+
+명령어로 5개를 예를 들면
+
+- pwd : 현재 위치한 디렉터리의 경로를 출력함 
+<img width="397" height="121" alt="image" src="https://github.com/user-attachments/assets/cbb3060a-c73e-424b-92f0-1a2141b1cc5f" />
+
+- mkdir : 새로운 디렉터리를 생성함
+<img width="397" height="121" alt="image" src="https://github.com/user-attachments/assets/a92e7020-e3c0-4ddb-8d83-a22a3b277261" />
+
+
+- nano : 터미널 내 파일을 만들고 편집한다. (test.txt 를 생성하였다.)
+<img width="1466" height="730" alt="image" src="https://github.com/user-attachments/assets/ef685c0a-4925-4336-a8d6-95c1410ed03e" />
+
+- car : 파일의 내용을 터미널 화면에 출력한다
+<img width="1466" height="730" alt="image" src="https://github.com/user-attachments/assets/e8efc570-c954-4588-a4ac-21ef696dceaf" />
+
+
+- cp : 파일이나 폴더를 복사한다.
+<img width="505" height="126" alt="image" src="https://github.com/user-attachments/assets/aab19eed-5252-4b7b-bf5e-35c5a26357a4" />
