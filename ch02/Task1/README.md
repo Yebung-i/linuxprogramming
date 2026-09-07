@@ -61,5 +61,6 @@
 
 ## Windows에서 사용하는 CLI방식의 셸의 종류를 조사하라.
 - 명령 프롬프트 (cmd) : MS-DOS 시절부터 이어져 온 Windows의 가장 오래된 CLI 셸이다. <br>
-    DOS 명령 체계를 기반으로 함 (dir, copy, del, cd 등)
+  -> DOS 명령 체계를 기반으로 함 (dir, copy, del, cd 등) <br>
+  -> 배치 파일 (.bat, .cmd) 작성 및 실행 가능
     
