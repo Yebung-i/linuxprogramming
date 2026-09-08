@@ -4,6 +4,7 @@
 
 ## 리눅스에서 가장 많이 사용되는 명령어 10개를 조사하고 설명하시오. 또 셸에서 실행하고 결과를 첨부하시오.
 - ls : 현재 위치의 파일과 폴더 목록을 보여줌
+<img width="403" height="87" alt="image" src="https://github.com/user-attachments/assets/a1283cfe-dd21-43f2-9086-1cfed17d88d1" />
 
 
 - pwd : 현재 작업 중인 폴더의 전체 경로를 보여준다 
@@ -11,28 +12,37 @@
 
 
 - cd : 다른 폴더로 이동한다.
+<img width="460" height="70" alt="image" src="https://github.com/user-attachments/assets/282ab845-9f58-4d33-b9c6-3e3c5378bb88" />
 
 
-- mkdir : 
+- mkdir : 새 폴더를 생성한다. 
+<img width="587" height="132" alt="image" src="https://github.com/user-attachments/assets/6880f51e-f9cb-4d45-ad05-9a514e69bd10" />
 
 
 - mv : 파일이나 폴더를 이동하거나 이름을 바꾼다.
+<img width="602" height="227" alt="image" src="https://github.com/user-attachments/assets/7bd08f6d-aa0b-47b1-b50f-f122b59e5e1b" />
 
 
 - cp : 파일이나 폴더를 복사한다.
+<img width="732" height="142" alt="image" src="https://github.com/user-attachments/assets/1abe866c-1a8d-45aa-bfd3-03b9e661441b" />
 
 
 - rm : 파일이나 폴더를 삭제한다.
+<img width="712" height="112" alt="image" src="https://github.com/user-attachments/assets/171d9e35-f537-47ef-b4cd-d6eceb1a0c48" />
+
+- touch : 내용이 없는 빈 파일을 생성하거나, 이미 존재하는 파일의 최종 수정 시간을 현재 시각으로 갱신한다.
+<img width="728" height="125" alt="image" src="https://github.com/user-attachments/assets/9294c7c0-d30e-4b01-8154-9b8125e196ef" />
 
 
-
-- touch : 
-
-
-- in :
+- ln : 파일에 대한 링크를 생성
+<img width="707" height="102" alt="image" src="https://github.com/user-attachments/assets/2e9f95d9-4451-4940-83ea-04db860ef973" />
 
 
-- clear : 
+- clear : 터미널 화면에 출력된 내용을 지우고 깨끗하게 정리한다.
+<img width="735" height="127" alt="image" src="https://github.com/user-attachments/assets/b0b0595e-064e-4801-afd4-900ce39f5bbd" />
+사용 후
+<img width="1158" height="257" alt="image" src="https://github.com/user-attachments/assets/69ace6d9-0c25-4211-a50b-204a8bee3201" />
+
 
 
 ## 셸과 커널을 구분하여 자세히 설명하시오.
