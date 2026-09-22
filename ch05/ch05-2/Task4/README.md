@@ -13,6 +13,7 @@
 
 
 # 실제로 심볼릭 링크를 만들고 확인한 결과를 첨부하라.
+<img width="748" height="262" alt="image" src="https://github.com/user-attachments/assets/120720a5-ad32-4312-a120-e8c334a26081" />
 
 
 # 빈파일과 빈디렉토리를 만든 후 파일속성(ls -l)을 출력하면 아래처럼 디렉터리는 하드링크의 수가 2이고 파일은 1이다. 이유를 설명하라.
