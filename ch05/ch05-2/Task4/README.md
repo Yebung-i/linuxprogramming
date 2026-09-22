@@ -8,6 +8,8 @@
 <img width="748" height="220" alt="image" src="https://github.com/user-attachments/assets/aefbd97d-93a0-4fa1-8111-a3c465fa46a1" />
 
 
+권한과 소유자 표시 사이 2라고 표시되어 있는데, 
+
 
 # 실제로 심볼릭 링크를 만들고 확인한 결과를 첨부하라.
 
