@@ -5,6 +5,8 @@
 
 # 심볼릭 링크를 확인하는 명령어를 설명하라
 - ls -l 로서, 출력하면 다음과 같은데
+<img width="617" height="202" alt="image" src="https://github.com/user-attachments/assets/96033e63-454d-4cdf-9a97-150d1465c624" />
+
 
 # 실제로 심볼릭 링크를 만들고 확인한 결과를 첨부하라.
 
