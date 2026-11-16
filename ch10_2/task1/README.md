@@ -6,5 +6,6 @@
 <img width="604" height="398" alt="image" src="https://github.com/user-attachments/assets/3d51c9ba-3b4f-46ea-be6a-11da5a1da19b" />
 
 ## 실행
-![Uploading image.png…]()
+<img width="629" height="249" alt="image" src="https://github.com/user-attachments/assets/feeaf3cc-33dc-41ba-a1f9-df480f59641e" />
+
 
